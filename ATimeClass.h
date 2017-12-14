@@ -5,7 +5,7 @@
 **
 **   Header Module for Amiga Time Class
 **
-**   Copyright © 2005, TroyB Software, All Rights Reserved.
+**   Copyright Â© 2005, TroyB Software, All Rights Reserved.
 **
 **   C++ Amiga Time Class.
 **
@@ -13,7 +13,7 @@
 **	The C++ Amiga Time Class is freeware.  This means that you can use these
 **	routines in any program that you wish, you just have to give me credit
 **	somewhere in the documents.  And an acknowledgement email that I'm a guy
-**	with a vision (money helps too). ;)
+**	with a vision.
 **
 **	I believe that this class will help reduce the amount of time YOU have to
 **	think up of some type of routine for displaying the time.  All routines in
